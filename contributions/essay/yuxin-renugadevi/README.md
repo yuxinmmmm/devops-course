@@ -2,6 +2,7 @@
 
 ## Members
 Yuxin Meng (yuxinm@kth.se)
+
 Renugadevi Anbarasan (renanb@kth.se)
 
 ## Proposal
